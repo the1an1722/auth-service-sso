@@ -1,8 +1,8 @@
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/sso?allowPublicKeyRetrieval=true&useSSL=false
-    username: root
-    password:
+    username: YourUsername
+    password: YourPassword
     driver-class-name: com.mysql.cj.jdbc.Driver
 jpa:
   hibernate:

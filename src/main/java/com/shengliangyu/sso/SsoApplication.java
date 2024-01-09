@@ -1,6 +1,6 @@
 package com.shengliangyu.sso;
 
-import config.SecurityConfig;
+import com.shengliangyu.sso.config.SecurityConfig;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Import;
